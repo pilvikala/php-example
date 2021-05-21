@@ -1,0 +1,16 @@
+{
+    "name": "snyk/php-example",
+    "description": "example of a vulnerable project in php",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "5.0.1",
+        "lexik/jwt-authentication-bundle": "2.11.0",
+        "phpmailer/phpmailer": "6.2"
+    },
+    "authors": [
+        {
+            "name": "pilvikala",
+            "email": "michal.brutvan@fossid.com"
+        }
+    ]
+}
